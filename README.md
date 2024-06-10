@@ -44,3 +44,50 @@ To get started with ChainSpark, follow these steps:
    ```sh
    git clone https://github.com/Utkarshhh20/chainspark.git
    cd chainspark
+   ```
+   
+2. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+   
+3. **Start the development server:**
+   ```sh
+   npm start
+   ```
+   
+4. **Start the backend server:**
+   ```sh
+   node server.js
+   ```
+   
+5. **Open your browser and navigate to http://localhost:3000 to view the application.**
+
+## Usage
+
+### Logging in
+- Users can log in using their email and password or sign in with Google.
+
+### Uploading Reports
+- Navigate to the "Upload" page, fill in the report details, and upload your report.
+
+### Searching for Reports
+- Use the search bar and filters to find specific reports based on date range, data type, price range, and market cap range.
+
+## Contributing 
+We welcome contributions to ChainSpark! To contribute:
+
+**1.** Fork the repository.
+**2.** Create a new branch (git checkout -b feature/your-feature-name).
+**3.** Make your changes and commit them (git commit -m 'Add some feature').
+**4.** Push to the branch (git push origin feature/your-feature-name).
+**5.** Open a pull request.
+
+## License 
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact 
+
+For any inquiries or feedback, please contact us.
+
