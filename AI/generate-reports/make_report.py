@@ -9,11 +9,11 @@ db_file = 'finance_chat_pack.db'
 '''conn = sqlite3.connect(db_file)
 conn.close()'''
 
-OPENAI_API_KEY = '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'
-POLYGON_API_KEY = 'cnr9sWyeiOqw4_acFRo06QzXiZeW_Nms'
-ALPHA_VANTAGE_API_KEY = 'YVCY5T9RD3U9A6QC'
-FINNHUB_API_KEY = 'cp4nu7hr01qnnlpbp5f0cp4nu7hr01qnnlpbp5fg'
-NEWSAPI_API_KEY =  'f92e03e9f1b5497b96117c9ed2bad6b7'
+OPENAI_API_KEY = ''
+POLYGON_API_KEY = ''
+ALPHA_VANTAGE_API_KEY = ''
+FINNHUB_API_KEY = ''
+NEWSAPI_API_KEY =  ''
 sqlite_db_uri = f'sqlite:///{db_file}'
 
 finance_chat_pack = FinanceChatPack(
