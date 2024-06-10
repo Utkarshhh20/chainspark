@@ -20,10 +20,10 @@ import textwrap
 
 
 # Set API keys
-NEWSAPI_API_KEY = 'f92e03e9f1b5497b96117c9ed2bad6b7'
-OPENAI_API_KEY = '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'
-TAVILY_API_KEY = "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"
-COINMARKETCAP_API_KEY = 'e04ed3d4-ce39-4084-adba-83d321b8c1d9'
+NEWSAPI_API_KEY = ''
+OPENAI_API_KEY = ''
+TAVILY_API_KEY = ""
+COINMARKETCAP_API_KEY = ''
 
 # Initialize sentiment analysis pipeline and tokenizer
 sentiment_analysis = pipeline("sentiment-analysis", model="ProsusAI/finbert")
