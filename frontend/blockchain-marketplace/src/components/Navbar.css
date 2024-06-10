@@ -1,0 +1,118 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: white;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    height: 100px;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-bottom: 1px solid white;
+  }
+  
+  .logo img {
+    margin-top: 25px;
+    height: 80px;
+    margin-left: 150px;
+  }
+  
+  .nav-links {
+    display: flex;
+    align-items: center;
+    position: relative; /* Ensure positioning context for the dropdown */
+  }
+  
+  .nav-links a, .user-menu {
+    margin: 0 30px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+  }
+
+  .nav-links a:hover {
+    text-decoration: underline;
+  }
+  
+  .spark-tokens {
+    display: flex;
+    align-items: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    margin-left: 30px;
+  }
+
+  .sparktoken {
+    width: 30px;
+    height: auto;
+  }
+  
+  .user-menu {
+    position: relative; /* This should be relative */
+    padding: 10px 10px;
+    border-radius: 5px;
+    border: 1px solid white;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: normal;
+  }
+  
+  .dropdown {
+    position: absolute;
+    right: 0;
+    top: 100%;
+    background-color: white;
+    color: black;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    overflow: hidden;
+    display: none; /* Hide dropdown initially */
+  }
+  
+  .user-menu:hover .dropdown {
+    display: block; /* Display dropdown on hover */
+  }
+  
+  .dropdown a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+  }
+  
+  .dropdown a:hover {
+    background-color: #f1f1f1;
+  }
+  
+
+  
+
+
+
+
+  _____
+
+  .landing-nav a {
+    color: #ffffff;
+    margin: 0 25px;
+    font-size: 17px;
+    text-decoration: none;
+  }
+  
+  .landing-nav a:hover {
+    text-decoration: underline;
+  }
+  
+  .login-button {
+    padding: 10px 20px;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    background-color: transparent;
+    color: #ffffff;
+    text-decoration: none;
+  }
+  

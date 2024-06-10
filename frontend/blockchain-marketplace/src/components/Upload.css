@@ -1,0 +1,84 @@
+.upload-page {
+display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url('../assets/images/black_bg.jpg');
+  background-repeat: repeat;
+  background-size:auto;
+}
+
+.upload-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .upload-content {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .upload-form {
+    flex: 1;
+    margin-right: 40px;
+    margin-left: 50px;
+    margin-top: 25px;
+  }
+  
+  .report-details {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .category-select,
+  .file-upload input {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .submit-button {
+    display: block;
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #45a049;
+  }
+
+  .example-report {
+    flex: 1;
+
+  }
+
+  .pdf-viewer {
+    flex: 1;
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 100%;
+    max-height: 500px;
+    overflow: auto;
+  }
+  
+  .tip-section {
+    flex: 1;
+    margin-right: 50px;
+  }
+  
+  .example-report {
+    margin-right: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .error {
+    color: red;
+    font-size: 0.9em;
+  }
