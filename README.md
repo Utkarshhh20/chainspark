@@ -13,28 +13,35 @@ ChainSpark is a decentralized financial reports marketplace leveraging blockchai
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/chainspark_screenshot_1.png)
+![Screenshot (624)](https://github.com/Utkarshhh20/chainspark/assets/88526325/df004970-74f3-4e1b-b6d5-ec448e6844c1)
 
 ### About Page
-![About Page](screenshots/chainspark_screenshot_2.png)
+![Screenshot (625)](https://github.com/Utkarshhh20/chainspark/assets/88526325/6e42fcf9-6c56-4404-a536-248bf528f6c2)
+png)
 
 ### Core Services
-![Core Services](screenshots/chainspark_screenshot_3.png)
+![Screenshot (626)](https://github.com/Utkarshhh20/chainspark/assets/88526325/cc25ec86-14c2-4a4a-aee6-d83674e7fdfe)
+
 
 ### Login Page
-![Login Page](screenshots/chainspark_screenshot_4.png)
-
-### Upload Report Page
-![Upload Report](screenshots/chainspark_screenshot_5.png)
-
-### Search Page
-![Search Page](screenshots/chainspark_screenshot_6.png)
-
-### Search Results Page
-![Search Results](screenshots/chainspark_screenshot_7.png)
+![Screenshot (627)](https://github.com/Utkarshhh20/chainspark/assets/88526325/ae368069-a04e-49ec-b245-e3616de33ac1)
 
 ### Sign Up Page
-![Sign Up Page](screenshots/chainspark_screenshot_8.png)
+![Screenshot (631)](https://github.com/Utkarshhh20/chainspark/assets/88526325/9307f9f4-1a35-4d41-b7ee-973799c102f6)
+
+### Search Page
+![Screenshot (629)](https://github.com/Utkarshhh20/chainspark/assets/88526325/4a3ca810-1ba7-4933-aa33-d1af5ae8c521)
+
+
+### Upload Report Page
+![Screenshot (628)](https://github.com/Utkarshhh20/chainspark/assets/88526325/8a15f75e-aff1-45d7-b998-b6bf0f1f5228)
+
+
+
+### Search Results Page
+![Screenshot (630)](https://github.com/Utkarshhh20/chainspark/assets/88526325/277a1487-0711-4e55-b1ac-1c5d2e591dee)
+
+
 
 ## Installation
 
@@ -44,4 +51,3 @@ To get started with ChainSpark, follow these steps:
    ```sh
    git clone https://github.com/Utkarshhh20/chainspark.git
    cd chainspark
-
