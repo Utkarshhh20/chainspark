@@ -8,7 +8,7 @@ print(datetime.datetime.today())
 text ="ban"
 print(text.split("a"))
 # Set API keys
-NEWSAPI_API_KEY = 'f92e03e9f1b5497b96117c9ed2bad6b7'
+NEWSAPI_API_KEY = ''
 
 # Fetch historical cryptocurrency prices using yfinance (or another API)
 def fetch_crypto_data(crypto_symbol):
