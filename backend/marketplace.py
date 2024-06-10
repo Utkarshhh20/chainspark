@@ -4,7 +4,7 @@ import ipfshttpclient
 import requests
 
 # Initialize Web3 connection
-INFURA_PROJECT_ID = '1600384e063046608881158958bcb6c8'
+INFURA_PROJECT_ID = ''
 web3 = Web3(Web3.HTTPProvider('https://rinkeby.infura.io/v3/{}'.format(INFURA_PROJECT_ID)))
 
 # Contract ABI and address
@@ -629,7 +629,7 @@ marketplace_abi = [
 		"type": "function"
 	}
 ]  # Use the ABI you provided for DataMarketplace
-marketplace_address = '0xD7ACd2a9FD159E69Bb102A1ca21C9a3e3A5F771B'
+marketplace_address = ''
 
 # Initialize contracts
 payment_token_contract = web3.eth.contract(address=payment_token_address, abi=payment_token_abi)
