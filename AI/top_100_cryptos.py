@@ -1,6 +1,6 @@
 import requests
 
-COINMARKETCAP_API_KEY = 'e04ed3d4-ce39-4084-adba-83d321b8c1d9'
+COINMARKETCAP_API_KEY = ''
 def fetch_top_cryptos(api_key, limit=100):
     base_url = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest'
 
