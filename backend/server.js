@@ -14,7 +14,7 @@ app.use(express.json());
 const db = mysql.createConnection({
   host: 'localhost',
   user: 'root',
-  password: 'utk2005',
+  password: 'ENTER_YOUR_PASS',
   database: 'chainspark'
 });
 
@@ -34,7 +34,7 @@ app.get('/', (req, res) => {
 // Endpoint to fetch historical data from Alpha Vantage
 app.get('/api/historical-data/:symbol', async (req, res) => {
   const symbol = req.params.symbol;
-  const API_KEY = 'JHVG4GPYYYG1ZF1E';//'4X8W1ITIK1A6CT2B';//'8YHMOQPVUVZ1XOZ0'; 
+  const API_KEY = 'ALPHAVANTAGE_API' 
   try {
     const response = await axios.get(`https://www.alphavantage.co/query`, {
       params: {
