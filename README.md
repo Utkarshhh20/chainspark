@@ -16,32 +16,25 @@ ChainSpark is a decentralized financial reports marketplace leveraging blockchai
 ![Screenshot (624)](https://github.com/Utkarshhh20/chainspark/assets/88526325/df004970-74f3-4e1b-b6d5-ec448e6844c1)
 
 ### About Page
-![Screenshot (625)](https://github.com/Utkarshhh20/chainspark/assets/88526325/6e42fcf9-6c56-4404-a536-248bf528f6c2)
-png)
+![Screenshot (625)](https://github.com/Utkarshhh20/chainspark/assets/88526325/3e6dabff-0fe0-4070-b1a3-4cd0f5cc23bd)
 
 ### Core Services
-![Screenshot (626)](https://github.com/Utkarshhh20/chainspark/assets/88526325/cc25ec86-14c2-4a4a-aee6-d83674e7fdfe)
-
+![Screenshot (626)](https://github.com/Utkarshhh20/chainspark/assets/88526325/931d63f8-50bd-4b34-8b39-6896f0370265)
 
 ### Login Page
-![Screenshot (627)](https://github.com/Utkarshhh20/chainspark/assets/88526325/ae368069-a04e-49ec-b245-e3616de33ac1)
+![Screenshot (627)](https://github.com/Utkarshhh20/chainspark/assets/88526325/10774ba3-af36-4f35-a135-51851b44ef6e)
 
 ### Sign Up Page
-![Screenshot (631)](https://github.com/Utkarshhh20/chainspark/assets/88526325/9307f9f4-1a35-4d41-b7ee-973799c102f6)
+![Screenshot (631)](https://github.com/Utkarshhh20/chainspark/assets/88526325/e227ae45-717f-436d-ae9e-cde5117f5700)
 
 ### Search Page
-![Screenshot (629)](https://github.com/Utkarshhh20/chainspark/assets/88526325/4a3ca810-1ba7-4933-aa33-d1af5ae8c521)
-
+![Screenshot (629)](https://github.com/Utkarshhh20/chainspark/assets/88526325/5e1c68b8-1d05-422b-b1a4-654e8cafa6df)
 
 ### Upload Report Page
-![Screenshot (628)](https://github.com/Utkarshhh20/chainspark/assets/88526325/8a15f75e-aff1-45d7-b998-b6bf0f1f5228)
-
-
+![Screenshot (628)](https://github.com/Utkarshhh20/chainspark/assets/88526325/6c946135-7b59-43a5-b590-2642a466d707)
 
 ### Search Results Page
-![Screenshot (630)](https://github.com/Utkarshhh20/chainspark/assets/88526325/277a1487-0711-4e55-b1ac-1c5d2e591dee)
-
-
+![Screenshot (630)](https://github.com/Utkarshhh20/chainspark/assets/88526325/3f5ba426-b308-48d1-a4d7-4b3124fa7062)
 
 ## Installation
 
