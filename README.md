@@ -1,7 +1,7 @@
 # ChainSpark
 
 ChainSpark is a decentralized financial reports marketplace leveraging blockchain technology to provide secure and transparent financial insights. The platform allows users to access and sell a wide range of financial reports and data, ensuring secure storage and verification on the blockchain. ChainSpark's AI-driven analysis delivers actionable insights, aiding users in making informed investment decisions.
-
+ChainSpark utilized CoinWise's report generation feature to keep circulation of reports over its platform in case of low user traffic.
 ## Features
 
 - **Decentralized Marketplace:** Buy and sell financial reports securely using blockchain technology.
